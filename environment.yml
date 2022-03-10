@@ -1,6 +1,7 @@
 name: example-environment
+script:
+  - apt install tesseract-ocr
 dependencies:
-  - tesseract-ocr
   - python
   - numpy
   - pip
