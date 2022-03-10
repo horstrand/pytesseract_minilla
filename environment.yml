@@ -1,7 +1,0 @@
-name: example-environment
-dependencies:
-  - python
-  - pip
-  - pip:
-    - Pillow
-    - pytesseract
